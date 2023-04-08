@@ -1,0 +1,63 @@
+{
+  "incomes": [
+    {
+      "id": 1,
+      "source": "Web Development Project",
+      "amount": 7000
+    },
+    {
+      "source": "Youtube Channel",
+      "amount": "2000",
+      "id": 4
+    },
+    {
+      "source": "Fashion Design Project",
+      "amount": "8000",
+      "id": 5
+    },
+    {
+      "source": "Bank Interest",
+      "amount": "600",
+      "id": 6
+    }
+  ],
+  "expenses": [
+    {
+      "id": 3,
+      "name": "Shopping",
+      "amount": 600
+    },
+    {
+      "id": 4,
+      "name": "Gym",
+      "amount": 600
+    },
+    {
+      "id": 5,
+      "name": "Car Maintenance",
+      "amount": 400
+    },
+    {
+      "name": "Glossary",
+      "amount": "400",
+      "id": 6
+    }
+  ],
+  "savings": [
+    {
+      "name": "Bank",
+      "amount": "12000",
+      "id": 1
+    },
+    {
+      "name": "Stake ( amount of stock ownership)",
+      "amount": "3000",
+      "id": 2
+    },
+    {
+      "name": "Pocket Money",
+      "amount": "600",
+      "id": 3
+    }
+  ]
+}
